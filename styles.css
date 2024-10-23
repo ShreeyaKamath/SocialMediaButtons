@@ -1,9 +1,23 @@
 *{
   margin: 0;
 }
-
+p{
+ color: yellowgreen;
+ font-size: 20em;
+ font-style: italic;
+text-align: center;
+text-decoration: wavy;
+}
+p1{
+  color:#000000;
+  font-size: 5em;
+  font-style: normal;
+  text-align: center;
+}
 body{
   height: 200vh;
+   background-color: #063970;
+}
 }
 
 .shareit {
